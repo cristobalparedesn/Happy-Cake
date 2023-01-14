@@ -1,6 +1,10 @@
 const Footer = () => {
   return(
-    <h1>Footer</h1>
+    <footer className="footer">
+      <div>
+        <p>CREADO POR CRISTÓBAL PAREDES ENERO 2023</p>
+      </div>
+    </footer>
   );
 }
 
