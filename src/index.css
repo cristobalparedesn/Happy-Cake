@@ -18,10 +18,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.container-contact-form{
+.container-pages{
   margin-top: 100px;
   max-width: 75ch;
 }
+.home-p {
+  text-align: center;
+}
+.size-img{
+  max-width: 50ch;
+  border-radius: 50px;
+}
+
 .footer{
   background-color: #14213d;
   display: flex;

@@ -3,7 +3,7 @@ import { Container, Button, Form } from "react-bootstrap";
 const Contact = () => {
   return(
     <>
-      <Container className="container-contact-form">
+      <Container className="container-pages">
         <h1>Contacto</h1>
         <br />
         <p>Cuentanos, ¿en qué te podemos ayudar?</p>
